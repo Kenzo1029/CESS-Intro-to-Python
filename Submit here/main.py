@@ -29,6 +29,7 @@ info = turtle.Turtle()
 info.hideturtle()
 info.penup()
 
+Nathaniel_Kenzo_Putra = 202653460021
 Nathaniel_Kenzo_Putra = turtle.Turtle()
 Nathaniel_Kenzo_Putra.hideturtle()
 Nathaniel_Kenzo_Putra.penup()
