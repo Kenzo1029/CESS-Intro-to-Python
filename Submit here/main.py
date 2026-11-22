@@ -28,14 +28,12 @@ pen.goto(80, 120)         # rope
 info = turtle.Turtle()
 info.hideturtle()
 info.penup()
-info.goto(0,100)
-info.pendown()
-info.goto(0,150)
-info.goto(80,150)
-info.goto(80,120)
 
-guess = turtle.Turtle()
-guess.penup()
+Nathaniel_Kenzo_Putra = turtle.Turtle()
+Nathaniel_Kenzo_Putra.hideturtle()
+Nathaniel_Kenzo_Putra.penup()
+Nathaniel_Kenzo_Putra.goto(-300, -270)
+Nathaniel_Kenzo_Putra.write("Nathaniel Kenzo Putra - 202653460021", font=("Arial", 10, "normal"))
 
 # ===== Game settings =====
 word = "nuister"   # task #1: insert your own word (any word you want)
